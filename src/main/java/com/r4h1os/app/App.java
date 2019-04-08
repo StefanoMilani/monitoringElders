@@ -21,7 +21,7 @@ public class App {
 		DirectTopology topology = dp.newTopology();
 		
 		String DeviceCfg = "/Users/milanimac/Developer/eclipse_workspace/Mini_Project_IoT/device.cfg";
-		IotDevice device = new IotpDevice(topology, new File(DeviceCfg));
+		IotpDevice device = new IotpDevice(topology, new File(DeviceCfg));
 		// Set up sensor
 		SmartWatchSensor sensor = new SmartWatchSensor();
 		// Read each second from sensor
