@@ -60,8 +60,8 @@ It offers boards to visualize your data.
 ## Useful links
 
 * [Concept and technology](https://www.slideshare.net/milanistef/monitoring-elders) (Some technology have changed due some issues found during implementation)
-* [Proof of concept presentation](#)
-* [Blog post](#)
+* [Proof of concept presentation](https://www.slideshare.net/milanistef/monitoring-elders-proof-of-concept)
+* [Blog post](https://www.hackster.io/151977/monitoring-elders-physical-state-remotely-with-iot-tech-c2da2e)
 
 
 
