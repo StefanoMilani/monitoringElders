@@ -32,12 +32,12 @@ Activity depended means that the smartwatch measures some data, such as heart ra
 
 #### Gadgetbridge
 
-Gadgetbridge is an open source android application which allow you to connect your smartphone to the Amazfit Bip without using the vendor application.
+Gadgetbridge is an open source android application which allows you to connect your smartphone to the Amazfit Bip without using the vendor application.
 ###### Pros:
 * Open source 
 * Compatible with several smart-watches 
-* Implement most of the smartwatch functionalities 
-* Update continuously 
+* Implements most of the smartwatch functionalities 
+* Updates continuously 
 ###### Cons:
 
 * Support for Amazfit Bip not fully implemented
@@ -53,9 +53,9 @@ Retrolambda: transform Java 8 code in Java 7 or 6 code
 #### IBM Watson IoT Platform
 
 It is a fully managed, cloud-hosted service that is designed to simplify and derive the value from your IoT devices.
-It provide a simple user interface where you can simply add and manage your devices, control access to yuor IoT service, and monitor your usage. 
+It provides a simple user interface where you can simply add and manage your devices, control access to your IoT service, and monitor your usage. 
 Apache Edgent has simple APIs to communicate with IBM Watson IoT Platform.
-It offers board to visualize your data.
+It offers boards to visualize your data.
 
 ## Useful links
 
