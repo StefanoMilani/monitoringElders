@@ -5,7 +5,6 @@ import java.util.concurrent.TimeUnit;
 
 // import org.apache.commons.lang3.tuple.Pair;
 import org.apache.commons.lang3.tuple.Triple;
-import org.apache.edgent.connectors.iot.IotDevice;
 import org.apache.edgent.connectors.iot.QoS;
 import org.apache.edgent.connectors.iotp.IotpDevice;
 import org.apache.edgent.providers.direct.DirectProvider;
